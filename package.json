@@ -1,0 +1,17 @@
+{
+  "name": "bisle-ghat-website",
+  "version": "1.0.0",
+  "description": "Bisle Ghat single-page travel guide website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "bisle-ghat",
+    "karnataka-tourism",
+    "western-ghats"
+  ],
+  "author": "",
+  "license": "ISC"
+}
