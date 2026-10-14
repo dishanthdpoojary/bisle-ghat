@@ -4,7 +4,7 @@
   "description": "Bisle Ghat single-page travel guide website",
   "scripts": {
     "build": "echo 'Static site ready'",
-    "dev": "node server.js"
+    "dev": "node dev-server.js"
   },
   "keywords": [
     "bisle-ghat",
